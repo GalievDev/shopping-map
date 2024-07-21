@@ -1,0 +1,9 @@
+[submodule "shopping-map-backend"]
+	path = shopping-map-backend
+	url = https://github.com/GalievDev/shopping-map-backend
+[submodule "shopping-map-frontend"]
+	path = shopping-map-frontend
+	url = https://github.com/GalievDev/shopping-map-frontend
+[submodule "image-generator-module"]
+	path = image-generator-module
+	url = https://github.com/GalievDev/image-generator-module
